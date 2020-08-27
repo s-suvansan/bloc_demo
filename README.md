@@ -1,6 +1,6 @@
 # bloc_demo
 
-bloc demo app with cubit
+A counter app with bloc and cubit
 
 ## Getting Started
 
