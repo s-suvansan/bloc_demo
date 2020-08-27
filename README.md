@@ -1,6 +1,6 @@
-# bloc_example
+# bloc_demo
 
-A new Flutter project.
+bloc demo app with cubit
 
 ## Getting Started
 
